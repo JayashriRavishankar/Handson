@@ -1,0 +1,6 @@
+C:\jayasri\Handson\CustomComLib\CustomComLib\bin\Debug\CustomComLib.dll
+C:\jayasri\Handson\CustomComLib\CustomComLib\bin\Debug\CustomComLib.pdb
+C:\jayasri\Handson\CustomComLib\CustomComLib\obj\Debug\CustomComLib.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\CustomComLib\CustomComLib\obj\Debug\CustomComLib.dll
+C:\jayasri\Handson\CustomComLib\CustomComLib\obj\Debug\CustomComLib.pdb
+C:\jayasri\Handson\CustomComLib\CustomComLib\obj\Debug\CustomComLib.csprojAssemblyReference.cache

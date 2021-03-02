@@ -1,0 +1,7 @@
+C:\jayasri\Handson\AsyncAwait\NamedParameters\bin\Debug\NamedParameters.exe.config
+C:\jayasri\Handson\AsyncAwait\NamedParameters\bin\Debug\NamedParameters.exe
+C:\jayasri\Handson\AsyncAwait\NamedParameters\bin\Debug\NamedParameters.pdb
+C:\jayasri\Handson\AsyncAwait\NamedParameters\obj\Debug\NamedParameters.csprojAssemblyReference.cache
+C:\jayasri\Handson\AsyncAwait\NamedParameters\obj\Debug\NamedParameters.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\AsyncAwait\NamedParameters\obj\Debug\NamedParameters.exe
+C:\jayasri\Handson\AsyncAwait\NamedParameters\obj\Debug\NamedParameters.pdb
