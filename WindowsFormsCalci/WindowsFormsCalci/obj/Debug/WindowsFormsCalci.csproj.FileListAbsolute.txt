@@ -1,0 +1,10 @@
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\bin\Debug\WindowsFormsCalci.exe.config
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\bin\Debug\WindowsFormsCalci.exe
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\bin\Debug\WindowsFormsCalci.pdb
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\obj\Debug\WindowsFormsCalci.csprojAssemblyReference.cache
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\obj\Debug\WindowsFormsCalci.Form1.resources
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\obj\Debug\WindowsFormsCalci.Properties.Resources.resources
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\obj\Debug\WindowsFormsCalci.csproj.GenerateResource.cache
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\obj\Debug\WindowsFormsCalci.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\obj\Debug\WindowsFormsCalci.exe
+C:\jayasri\Handson\WindowsFormsCalci\WindowsFormsCalci\obj\Debug\WindowsFormsCalci.pdb

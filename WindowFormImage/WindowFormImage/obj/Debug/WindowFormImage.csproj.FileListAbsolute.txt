@@ -1,0 +1,10 @@
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\bin\Debug\WindowFormImage.exe.config
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\bin\Debug\WindowFormImage.exe
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\bin\Debug\WindowFormImage.pdb
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\obj\Debug\WindowFormImage.csprojAssemblyReference.cache
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\obj\Debug\WindowFormImage.Form1.resources
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\obj\Debug\WindowFormImage.Properties.Resources.resources
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\obj\Debug\WindowFormImage.csproj.GenerateResource.cache
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\obj\Debug\WindowFormImage.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\obj\Debug\WindowFormImage.exe
+C:\jayasri\Handson\WindowFormImage\WindowFormImage\obj\Debug\WindowFormImage.pdb
