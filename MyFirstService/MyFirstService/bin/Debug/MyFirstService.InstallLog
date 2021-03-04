@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe

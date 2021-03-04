@@ -1,0 +1,9 @@
+C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+C:\jayasri\Handson\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+C:\jayasri\Handson\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csprojAssemblyReference.cache
+C:\jayasri\Handson\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+C:\jayasri\Handson\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+C:\jayasri\Handson\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+C:\jayasri\Handson\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
