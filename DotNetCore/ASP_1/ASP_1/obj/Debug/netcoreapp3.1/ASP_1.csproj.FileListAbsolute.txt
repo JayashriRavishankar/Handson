@@ -1,0 +1,12 @@
+C:\jayasri\Handson\ASP_1\ASP_1\bin\Debug\netcoreapp3.1\ASP_1.exe
+C:\jayasri\Handson\ASP_1\ASP_1\bin\Debug\netcoreapp3.1\ASP_1.deps.json
+C:\jayasri\Handson\ASP_1\ASP_1\bin\Debug\netcoreapp3.1\ASP_1.runtimeconfig.json
+C:\jayasri\Handson\ASP_1\ASP_1\bin\Debug\netcoreapp3.1\ASP_1.runtimeconfig.dev.json
+C:\jayasri\Handson\ASP_1\ASP_1\bin\Debug\netcoreapp3.1\ASP_1.dll
+C:\jayasri\Handson\ASP_1\ASP_1\bin\Debug\netcoreapp3.1\ASP_1.pdb
+C:\jayasri\Handson\ASP_1\ASP_1\obj\Debug\netcoreapp3.1\ASP_1.AssemblyInfoInputs.cache
+C:\jayasri\Handson\ASP_1\ASP_1\obj\Debug\netcoreapp3.1\ASP_1.AssemblyInfo.cs
+C:\jayasri\Handson\ASP_1\ASP_1\obj\Debug\netcoreapp3.1\ASP_1.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\ASP_1\ASP_1\obj\Debug\netcoreapp3.1\ASP_1.dll
+C:\jayasri\Handson\ASP_1\ASP_1\obj\Debug\netcoreapp3.1\ASP_1.pdb
+C:\jayasri\Handson\ASP_1\ASP_1\obj\Debug\netcoreapp3.1\ASP_1.genruntimeconfig.cache
