@@ -1,0 +1,51 @@
+﻿
+
+@model IEnumerable<EmployeeASP.Models.Employee>
+
+@{ 
+    ViewData["Title"] = "GetEmployeeList";
+                Layout = "~/Views/Shared/_Layout.cshtml"; 
+ }
+
+<h1>Employee List</h1>
+
+<div class="Row">
+    <span class="col-md-4">
+        <b>Name</b>
+    </span>
+    <span class="col-md-4">
+        <b>Salary</b>
+    </span>
+</div>
+
+
+@foreach (var item in Model)
+{
+    @if (@item.IsPermanent)
+    {
+    <div class="Row">
+        <span class="col-md-4">
+            <mark class="alert-primary">
+                <strong>@item.Name</strong>
+            </mark>
+        </span>
+        <span class="col-md-4">
+            <mark class="alert-primary">
+                <strong>@item.Salary</strong>
+            </mark>
+         </span>
+     </div> 
+  }
+     else
+ {
+           <div class="Row">
+                 <span class="col-md-4">
+                        @item.Name
+                 </span>
+            <span class="col-md-4">
+                        @item.Salary
+           </span>
+           </div>
+}
+}
+
