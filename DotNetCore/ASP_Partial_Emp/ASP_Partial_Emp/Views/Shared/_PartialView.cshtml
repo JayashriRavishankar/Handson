@@ -1,0 +1,17 @@
+﻿
+@model List<Employee>
+
+
+@foreach (var i in Model)
+{
+    if (i.IsPermanent == true)
+    {
+<div class="row">
+    <span class="col-md-4"><b>@i.Name - @i.Salary</b></span>
+</div> }
+                else
+                {
+<div class="row">
+    <span class="col-md-4">@i.Name - @i.Salary</span>
+</div>}
+            }
