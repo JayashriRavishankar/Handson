@@ -1,0 +1,7 @@
+C:\jayasri\case study core\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+C:\jayasri\case study core\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe
+C:\jayasri\case study core\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.pdb
+C:\jayasri\case study core\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csprojAssemblyReference.cache
+C:\jayasri\case study core\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
+C:\jayasri\case study core\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.exe
+C:\jayasri\case study core\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.pdb

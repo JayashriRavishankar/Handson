@@ -1,0 +1,7 @@
+C:\jayasri\case study core\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe.config
+C:\jayasri\case study core\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe
+C:\jayasri\case study core\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
+C:\jayasri\case study core\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csprojAssemblyReference.cache
+C:\jayasri\case study core\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CoreCompileInputs.cache
+C:\jayasri\case study core\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
+C:\jayasri\case study core\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb
