@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJOZh4fLPgrBeTV+v6GubKQh6fsstIBFOLK0CJUOv5GA4CdBOwQXmGq2bbDNmW7Elg+SwwQck0ZCNCpPj7DpcA==",
+  "success": true,
+  "projectFilePath": "E:\\New folder\\Yuvaraj-Stage_3-HandsOn-main\\ASP.Net Core\\Log4NetLogging\\Log4NetLogging\\Log4NetLogging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manik\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
