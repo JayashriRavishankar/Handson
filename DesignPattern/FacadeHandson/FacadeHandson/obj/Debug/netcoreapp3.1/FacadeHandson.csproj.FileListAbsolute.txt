@@ -1,0 +1,12 @@
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\bin\Debug\netcoreapp3.1\FacadeHandson.exe
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\bin\Debug\netcoreapp3.1\FacadeHandson.deps.json
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\bin\Debug\netcoreapp3.1\FacadeHandson.runtimeconfig.json
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\bin\Debug\netcoreapp3.1\FacadeHandson.runtimeconfig.dev.json
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\bin\Debug\netcoreapp3.1\FacadeHandson.dll
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\bin\Debug\netcoreapp3.1\FacadeHandson.pdb
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\obj\Debug\netcoreapp3.1\FacadeHandson.AssemblyInfoInputs.cache
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\obj\Debug\netcoreapp3.1\FacadeHandson.AssemblyInfo.cs
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\obj\Debug\netcoreapp3.1\FacadeHandson.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\obj\Debug\netcoreapp3.1\FacadeHandson.dll
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\obj\Debug\netcoreapp3.1\FacadeHandson.pdb
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\FacadeHandson\FacadeHandson\obj\Debug\netcoreapp3.1\FacadeHandson.genruntimeconfig.cache

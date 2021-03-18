@@ -1,0 +1,13 @@
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\jayasri\Handson\DesignPattern\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

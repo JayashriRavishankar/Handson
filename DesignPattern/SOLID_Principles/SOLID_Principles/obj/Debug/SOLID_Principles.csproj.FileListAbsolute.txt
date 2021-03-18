@@ -1,0 +1,7 @@
+C:\Users\bhema\Downloads\SOLID_Principles-20210316T095220Z-001\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\Users\bhema\Downloads\SOLID_Principles-20210316T095220Z-001\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\Users\bhema\Downloads\SOLID_Principles-20210316T095220Z-001\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\Users\bhema\Downloads\SOLID_Principles-20210316T095220Z-001\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+C:\Users\bhema\Downloads\SOLID_Principles-20210316T095220Z-001\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\bhema\Downloads\SOLID_Principles-20210316T095220Z-001\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\Users\bhema\Downloads\SOLID_Principles-20210316T095220Z-001\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.pdb

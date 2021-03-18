@@ -1,0 +1,13 @@
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\jayasri\Handson\DesignPattern\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

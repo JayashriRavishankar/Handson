@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{DB470CB0-AF3A-42BB-AEA3-C1718470B456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB470CB0-AF3A-42BB-AEA3-C1718470B456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB470CB0-AF3A-42BB-AEA3-C1718470B456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB470CB0-AF3A-42BB-AEA3-C1718470B456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB470CB0-AF3A-42BB-AEA3-C1718470B456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718516B5-8C15-41C6-9422-E5F7AFC20635}
+	EndGlobalSection
+EndGlobal
