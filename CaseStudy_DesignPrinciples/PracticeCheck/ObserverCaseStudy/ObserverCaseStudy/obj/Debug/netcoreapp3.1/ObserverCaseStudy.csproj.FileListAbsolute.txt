@@ -1,0 +1,26 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.deps.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.runtimeconfig.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.runtimeconfig.dev.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.csprojAssemblyReference.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.AssemblyInfoInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.AssemblyInfo.cs
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.genruntimeconfig.cache
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.exe
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.deps.json
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.runtimeconfig.json
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.runtimeconfig.dev.json
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.dll
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.pdb
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.csprojAssemblyReference.cache
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.AssemblyInfoInputs.cache
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.AssemblyInfo.cs
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.csproj.CoreCompileInputs.cache
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.dll
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.pdb
+C:\jayasri\Handson\Case Study2\ObserverCaseStudy\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.genruntimeconfig.cache
